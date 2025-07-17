@@ -1,8 +1,8 @@
 
 ## 📝 ToDo List
 
-Aplicacao desenvolvida como parte do **Desafio 01** do curso **Ignite React** da Rocketseat.  
-O objetivo foi construir uma **lista de tarefas (to-do list)** com funcionalidades basicas de adicao, marcacao e exclusao de tarefas.
+Aplicação desenvolvida como parte do **Desafio 01** do curso **Ignite React** da Rocketseat.  
+O objetivo foi construir uma **lista de tarefas (to-do list)** com funcionalidades básicas de adição, marcação e exclusão de tarefas.
 
 ---
 
@@ -18,16 +18,16 @@ O objetivo foi construir uma **lista de tarefas (to-do list)** com funcionalidad
 ### 🎯 Funcionalidades
 
 - ✅ Adicionar uma nova tarefa
-- ✅ Marcar e desmarcar tarefa como concluida
+- ✅ Marcar e desmarcar tarefa como concluída
 - ✅ Excluir tarefa
-- ✅ Contador de tarefas criadas e concluidas
+- ✅ Contador de tarefas criadas e concluídas
 
 ---
 
 ### 💡 Aprendizados
 
-- Manipulacao de estados com `useState`
-- Criacao e componentizacao com React
-- Estilizacao com Tailwind CSS
+- Manipulação de estados com `useState`
+- Criação e componentização com React
+- Estilização com Tailwind CSS
 - Tipagem com TypeScript
-- Praticas de imutabilidade
+- Práticas de imutabilidade
